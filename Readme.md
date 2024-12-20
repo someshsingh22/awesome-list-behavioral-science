@@ -89,11 +89,29 @@
   
   **Modality**: Image
 
+- **MemCat: a new category-based image set quantified on memorability** [[Paper](https://www.nature.com/articles/s41598-019-39497-0)]
+  
+  *Lore Goetschalckx, Johan Wagemans* (PeerJ, 2019)
+  
+  **Modality**: Image
+
 - **Show and Recall: Learning What Makes Videos Memorable** [[Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w40/Shekhar_Show_and_Recall_ICCV_2017_paper.pdf)]
   
   *Sumit Shekhar, Dhruv Singal, Harvineet Singh, et al.* (ICCV Workshops, 2017)
   
   **Modality**: Video
+
+- **Understanding and Predicting Image Memorability at a Large Scale** [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Khosla_Understanding_and_Predicting_ICCV_2015_paper.pdf)] [[Homepage,Dataset](http://memorability.csail.mit.edu/explore.html)]
+  
+  *Aditya Khosla, Akhil S. Raju, Antonio Torralba, Aude Oliva.* (ICCV, 2015)
+  
+  **Modality**: Image
+
+- **Intrinsic and Extrinsic Effects on Image Memorability** [[Paper](https://web.mit.edu/zoya/www/docs/figrimProof.pdf)] [[Homepage,Dataset](http://figrim.mit.edu/)]
+  
+  *Zoya Bylinskii, Phillip Isola, Constance Bainbridge, Antonio Torralba, Aude Oliva.* (Vision Research, 2015)
+  
+  **Modality**: Image
 
 - **Learning Computational Models of Video Memorability from fMRI Brain Imaging** [[Paper](https://pubmed.ncbi.nlm.nih.gov/25314715/)]
   
