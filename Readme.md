@@ -26,11 +26,18 @@
 ## Papers on Computational Human Behavior
 
 ### Memorable Media Generation
-- **Long-Term Ad Memorability: Understanding & Generating Memorable Ads** [[Paper](https://arxiv.org/abs/2309.00378)] [[Code](https://github.com/behavior-in-the-wild/ad-memorability)]
+
+- **Long-Term Ad Memorability: Understanding & Generating Memorable Ads** [[Paper](https://arxiv.org/abs/2309.00378)] [[Code](https://github.com/behavior-in-the-wild/ad-memorability)] [[Dataset](https://huggingface.co/datasets/behavior-in-the-wild/UltraLAMBDA)]
 
   *Harini S I, Somesh Singh, Yaman K Singla, Aanisha Bhattacharyya, Veeky Baths, Changyou Chen, Rajiv Ratn Shah, Balaji Krishnamurthy* (WACV 2025)
 
   **Modality** Multimodal, Video, Speech, Image
+
+- **Generative Outpainting To Enhance the Memorability of Short-Form Videos**  [[Paper](https://arxiv.org/pdf/2411.14213v1)]
+  
+  *Alan Byju, Aman Sudhindra Ladwa, Lorin Sweeney, Alan F. Smeaton** (arxiv, 2024)
+  
+  **Modality**: Video
   
 - **How to Make an Image More Memorable? A Deep Style Transfer Approach**  [[Paper](https://dl.acm.org/doi/10.1145/3078971.3078986)]
   
@@ -40,7 +47,7 @@
 
 ### Media Memorability Prediction
 
-- **Long-Term Ad Memorability: Understanding & Generating Memorable Ads** [[Paper](https://arxiv.org/abs/2309.00378)] [[Code](https://github.com/behavior-in-the-wild/ad-memorability)]
+- **Long-Term Ad Memorability: Understanding & Generating Memorable Ads** [[Paper](https://arxiv.org/abs/2309.00378)] [[Code](https://github.com/behavior-in-the-wild/ad-memorability)] [[Dataset](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA)]
   
   *Harini S I, Somesh Singh, Yaman K Singla, Aanisha Bhattacharyya, Veeky Baths, Changyou Chen, Rajiv Ratn Shah, Balaji Krishnamurthy* (WACV 2025)
   
@@ -64,7 +71,13 @@
   
   **Modality**: Image
 
-- **Videomem: Constructing, Analyzing, Predicting Short-Term and Long-Term Video Memorability** [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cohendet_VideoMem_Constructing_Analyzing_Predicting_Short-Term_and_Long-Term_Video_Memorability_ICCV_2019_paper.pdf)]
+- **Multimodal Memorability: Modeling Effects of Semantics and Decay on Video Memorability** [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610222.pdf)] [[Homepage,Dataset,Code](http://memento.csail.mit.edu/)]
+
+  *Anelise Newman, Camilo Fosco, Vincent Casser, Allen Lee, Barry McNamara, Aude Oliva* (ECCV, 2020)
+  
+  **Modality**: Video
+
+- **Videomem: Constructing, Analyzing, Predicting Short-Term and Long-Term Video Memorability** [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cohendet_VideoMem_Constructing_Analyzing_Predicting_Short-Term_and_Long-Term_Video_Memorability_ICCV_2019_paper.pdf)] [[Dataset Request](https://www.interdigital.com/data_sets/video-memorability-dataset)]
   
   *Romain Cohendet, Claire-Hélène Demarty, Ngoc QK Duong, Martin Engilberge.* (ICCV, 2019)
   
